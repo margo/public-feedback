@@ -6,13 +6,7 @@ has the necessary rights to submit those changes.
 A DCO provides some additional legal protections while being
 relatively easy to do.
 
-The [OpenSSF Charter](https://cdn.platform.linuxfoundation.org/agreements/openssf.pdf)
-section 5b requires DCOs. More specifically it says that
-"Technical Initiatives will require that all new inbound source
-code contributions must also be accompanied by a Developer Certificate
-of Origin (https://developercertificate.org) sign-off in the source
-code system that is submitted through a TAC-approved contribution
-process...".
+The [Margo Charter](https://github.com/margo/Margo-collaboration/blob/main/non-executable-margo-membership-agremeent.pdf) onlining contribution requirements
 
 Adding a DCO is easy when you create a proposed change in git.
 If you use `git commit`, just use its `-s` option. If you're making commits
