@@ -13,3 +13,5 @@ Teams will be nested, using parent/child relationships, as needed. A child team 
 
 - There are a few settings that justify Admin access over Maintain, so prefer Maintain.
 - Explicit Read access has an advantage: users with Read access can be assigned to issues and requested as PR reviewers even if they're not the author.
+
+- added changes for PR
